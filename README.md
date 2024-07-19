@@ -1,5 +1,3 @@
----
-
 # Spotify Website Clone
 
 This project is a simple Spotify website clone built entirely with HTML and CSS. It aims to replicate the look and feel of the Spotify web interface.
@@ -29,5 +27,3 @@ Contributions are welcome! If you'd like to enhance this project, feel free to s
 ## Acknowledgments
 
 This project was inspired by the official Spotify web app.
-
----
